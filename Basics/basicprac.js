@@ -93,8 +93,26 @@
 // console.log("2" == 2);
 // console.log("2" === 2);
 
-
-
+// Two types of datatypes : Primitive & Non-Primitive;
+// Primitive Datatypes(Call by value) : string, number, boolean, null, undefined, symbol and bigInt
+// const str = "Hello";
+// const num = 23;
+// const bool = true;
+// const temp = null;
+// let userEmail;
+// const id = Symbol('123');
+// const anotherId = Symbol('123');
+// console.log(id === anotherId);
+// const bigNumber = 7231231242323221213n;
+// Non-Primitive Datatypes(Call by reference) : arrays, objects and functions 
+// let heroes = ["Superman", "Batman", "IronMan", "Hulk", "Thor"];
+// let myObj = {
+//     name : "Vedant",
+//     age : 27
+// }
+// const myFunction = function() {
+//     console.log("Hello World");
+// }
 
 
 
